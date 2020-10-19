@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67d4c904-36e9-41b4-8c1d-3d2e94c90667" name="Default Changelist" comment="BraillChange Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="BrailleChange Commit" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="1bfa6216-3b25-454d-8d63-9be6d481cdaa" />
+  <component name="ProjectId" id="1gdW8rle2rzbKgdeBdWCGQISRMY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.braille">
+    <configuration name="Make_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py/Make_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="braille" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/braille.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="braille_TF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/braille_TF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="img_gen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/img_gen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.braille" />
+        <item itemvalue="Python.braille_TF" />
+        <item itemvalue="Python.img_gen" />
+        <item itemvalue="Python.Make_model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67d4c904-36e9-41b4-8c1d-3d2e94c90667" name="Default Changelist" comment="" />
+      <created>1598444793980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598444793980</updated>
+      <workItem from="1598444795068" duration="22000" />
+      <workItem from="1598487425449" duration="10953000" />
+      <workItem from="1598526611228" duration="1345000" />
+      <workItem from="1598538855163" duration="263000" />
+      <workItem from="1598541311982" duration="228000" />
+      <workItem from="1598579974784" duration="42000" />
+      <workItem from="1598580024822" duration="659000" />
+      <workItem from="1603071662086" duration="1425000" />
+      <workItem from="1603073159283" duration="101000" />
+    </task>
+    <task id="LOCAL-00001" summary="BraillChange Commit">
+      <created>1603071814382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603071814382</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BraillChange Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="BraillChange Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="235" key="#Notifications" timestamp="1598489025473">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="501" y="235" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1598489025473" />
+    <state x="506" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598580625494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="506" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1598580625494" />
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1603072955826">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603072955826" />
+    <state x="635" y="310" key="Github.ShareDialog" timestamp="1603073231368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="635" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1603073231368" />
+    <state width="1493" height="366" key="GridCell.Tab.0.bottom" timestamp="1598580684541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="366" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598580684541" />
+    <state width="1493" height="366" key="GridCell.Tab.0.center" timestamp="1598580684541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="366" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598580684541" />
+    <state width="1493" height="366" key="GridCell.Tab.0.left" timestamp="1598580684541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="366" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598580684541" />
+    <state width="1493" height="366" key="GridCell.Tab.0.right" timestamp="1598580684541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="366" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598580684541" />
+    <state x="426" y="80" key="SettingsEditor" timestamp="1598580113568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="80" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598580113568" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603072978191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603072978191" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BrailleChange$img_gen.coverage" NAME="img_gen Coverage Results" MODIFIED="1598505040123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BrailleChange$Make_model.coverage" NAME="Make_model Coverage Results" MODIFIED="1598491549658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py" />
+    <SUITE FILE_PATH="coverage/BrailleChange$braille.coverage" NAME="braille Coverage Results" MODIFIED="1598580594947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BrailleChange$braille_TF.coverage" NAME="braille_TF Coverage Results" MODIFIED="1598505050057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
